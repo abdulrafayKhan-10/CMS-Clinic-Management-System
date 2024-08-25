@@ -1,0 +1,78 @@
+﻿@{
+    Layout = "_UserLayout";
+}
+@model IEnumerable<TblEventBooking>
+<!-- CSS Ticket inspired by -->
+<!-- https://dribbble.com/shots/2677752-Dribbble-invite-competition -->
+
+<div id="breadcrumb">
+    <div class="container">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Entry Pass</a></li>
+            <li>Page active</li>
+        </ul>
+    </div>
+</div>
+
+@{
+    
+}
+@foreach (var tempData in Model)
+{
+    
+    if (tempData.Status == 1 && tempData.Event.Date > DateTime.Now)
+    {
+        
+    
+
+<div class="ticket">
+    <div class="stub">
+        <div class="top">
+            <span class="admit">wdsxscc</span>
+            <span class="line"></span>
+            <span class="num">
+                Invitation
+                <span>@tempData.Id</span>
+            </span>
+        </div>
+            <div class="number">@tempData.Id
+        </div>
+        <div class="invite">
+            Pass for you
+        </div>
+    </div>
+    <div class="check">
+        <div class="big">
+            Entry <br> Pass
+        </div>
+        <div class="number">#1</div>
+        <div class="info">
+            <section>
+                <div class="title">Date</div>
+                    <div>
+                        @Convert.ToDateTime(tempData.Event.Date).ToString("d/MM/yyyy");
+                </div>
+            </section>
+            <section>
+                <div class="title">Topic</div>
+                <div>@tempData.Event.Topic</div>
+            </section>
+            <section>
+                <div class="title">Pass No</div>
+                <div>@tempData.Id</div>
+            </section>
+        </div>
+    </div>
+        </div>
+    }else if(tempData.Event.Date < DateTime.Now)
+    {
+
+        <h5 class="text-center mt-4">Expired</h5>
+    }
+    else
+    {
+        <h5>Wait For Pass</h5>
+    }
+
+}

@@ -1,0 +1,62 @@
+﻿@{
+
+    Layout = "_AdminLayout";
+}
+@model CMS.Models.AllTables;
+
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="#">Dashboard</a>
+            </li>
+            <li class="breadcrumb-item active">Feedbacks</li>
+        </ol>
+        <!-- Example DataTables Card-->
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fa fa-commenting"></i> All Feedbacks
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>User Name</th>
+                                <th>Product</th>
+                                <th>Feedback</th>
+                               
+
+
+
+
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @for (int i = 0; i < Model.feedback_list.Count(); i++)
+                            {
+                                <tr>
+                                    <td>@Model.feedback_list.ElementAt(i).Id</td>
+                                    <td>@Model.reviewUsers[i]</td>
+                                    <td>@Model.feedback_list.ElementAt(i).PIdNavigation.ProductName</td>
+                                    <td>@Model.feedback_list.ElementAt(i).Text</td>
+
+
+
+                          
+                            </tr>
+  }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+        <!-- /tables-->
+    </div>
+    <!-- /container-fluid-->
+</div>

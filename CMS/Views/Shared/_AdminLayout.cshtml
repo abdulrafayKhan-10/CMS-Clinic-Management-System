@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Ansonika">
+    <title>FINDOCTOR - Admin dashboard</title>
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="~/Admincss/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="~/Admincss/img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="~/Admincss/img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="~/Admincss/img/apple-touch-icon-144x144-precomposed.png">
+
+    <!-- GOOGLE WEB FONT -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800" rel="stylesheet">
+
+    <!-- Bootstrap core CSS-->
+    <link href="~/Admincss/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Icon fonts-->
+    <link href="~/Admincss/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Plugin styles -->
+    <link href="~/Admincss/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+    <link href="~/Admincss/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+    <link href="~/Admincss/vendor/dropzone.css" rel="stylesheet">
+    <!-- Main styles -->
+    <link href="~/Admincss/css/admin.css" rel="stylesheet">
+    <!-- Your custom styles -->
+    <link href="~/Admincss/css/admin.css" rel="stylesheet">
+    <!-- WYSIWYG Editor -->
+    <link rel="stylesheet" href="~/Admincss/js/editor/summernote-bs4.css">
+    <script src="~/Admincss/js/admin-datatables.js"></script>
+</head>
+
+<body class="fixed-nav sticky-footer" id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-default fixed-top" id="mainNav">
+        <a class="navbar-brand" href="index.html"><img src="~/Admincss/img/apple-touch-icon-114x114-precomposed.png" data-retina="true" alt="" width="63" height="36"></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                    <a class="nav-link" asp-action="Index" asp-controller="Admin">
+                        <i class="fa fa-fw fa-dashboard"></i>
+                        <span class="nav-link-text">Dashboard</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Orders">
+                    <a class="nav-link" asp-action="Orders" asp-controller="Admin">
+                        <i class="fa fa-fw fa-cart-plus"></i>
+                        <span class="nav-link-text">Orders</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Bookings">
+                    <a class="nav-link" asp-action="Bookings" asp-controller="Admin">
+                        <i class="fa fa-fw fa-calendar-check-o"></i>
+                        <span class="nav-link-text">Event Bookings</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Reviews">
+                    <a class="nav-link" asp-action="RegisteredUser" asp-controller="Admin">
+                        <i class="fa fa-fw fa-user"></i>
+                        <span class="nav-link-text">Registered Users</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="About-Content">
+                    <a class="nav-link" asp-action="AboutUs" asp-controller="Admin">
+                        <i class="fa fa-fw fa-book"></i>
+                        <span class="nav-link-text">About Content</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="About-Content">
+                    <a class="nav-link" asp-action="Stock" asp-controller="Admin">
+                        <i class="fa fa-fw fa-truck "></i>
+                        <span class="nav-link-text">Stock</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Feedbacks">
+                    <a class="nav-link" asp-action="Feedbacks" asp-controller="Admin">
+                        <i class="fa fa-fw fa-commenting"></i>
+                        <span class="nav-link-text">Feedbacks</span>
+                    </a>
+                </li>
+              
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="My profile">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseProfile" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-wrench"></i>
+                        <span class="nav-link-text">Manage Products</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseProfile">
+                        <li>
+                            <a asp-action="ProductView" asp-controller="Admin">Show Products</a>
+                        </li>
+                        <li>
+                            <a asp-action="ProductAdd" asp-controller="Admin">Add Product</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-calendar"></i>
+                        <span class="nav-link-text">Events</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseComponents">
+                        <li>
+                            <a asp-action="ViewEvent" asp-controller="Admin">All Events</a>
+                        </li>
+                        <li>
+                            <a asp-action="AddEvent" asp-controller="Admin">Add Events</a>
+                        </li>
+                      
+                    </ul>
+                </li>
+            </ul>
+            <ul class="navbar-nav sidenav-toggler">
+                <li class="nav-item">
+                    <a class="nav-link text-center" id="sidenavToggler">
+                        <i class="fa fa-fw fa-angle-left"></i>
+                    </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="Logout" asp-controller="Admin">
+                        <i class="fa fa-fw fa-sign-out"></i>Logout
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- /Navigation-->
+    
+        @RenderBody()
+
+  
+
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/Admincss/vendor/jquery/jquery.min.js"></script>
+    <script src="~/Admincss/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/Admincss/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Page level plugin JavaScript-->
+    <script src="~/Admincss/vendor/chart.js/Chart.js"></script>
+    <script src="~/Admincss/vendor/datatables/jquery.dataTables.js"></script>
+    <script src="~/Admincss/vendor/datatables/dataTables.bootstrap4.js"></script>
+    <script src="~/Admincss/vendor/jquery.selectbox-0.2.js"></script>
+    <script src="~/Admincss/vendor/retina-replace.min.js"></script>
+    <script src="~/Admincss/vendor/jquery.magnific-popup.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/Admincss/js/admin.js"></script>
+    <!-- Custom scripts for this page-->
+    <script src="~/Admincss/js/admin-charts.js"></script>
+   <!-- Custom scripts for this page-->
+   
+    <script src="~/Admincssjs/editor/summernote-bs4.min.js"></script>
+
+    <script src="~/Admincss/vendor/dropzone.min.js"></script>
+    
+   
+
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+﻿@model CMS.Models.AllTables
+@{
+
+	Layout = "_AdminLayout";
+}
+
+<div class="content-wrapper">
+	<div class="container-fluid">
+		<!-- Breadcrumbs-->
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="#">Dashboard</a>
+			</li>
+			<li class="breadcrumb-item active">Add Product</li>
+		</ol>
+		<form method="post" enctype="multipart/form-data">
+			<div class="box_general padding_bottom">
+				<div class="header_box version_2">
+					<h2><i class="fa fa-file"></i>Add a Product</h2>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Product Name</label>
+							<input asp-for="productss.ProductName" type="text" class="form-control" placeholder="Product name" required>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Company Name</label>
+							<input asp-for="productss.CompanyName" type="text" class="form-control" placeholder="Product company name" required>
+						</div>
+					</div>
+				</div>
+				<!-- /row-->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="form-group">
+							<label>Product Description</label>
+							<textarea asp-for="productss.Description" rows="8" class="form-control" placeholder="Product description" required></textarea>
+						</div>
+					</div>
+				</div>
+				<!-- /row-->
+
+				<div class="row">
+					<div class="col-md-12">
+						<div class="form-group">
+							<label>Images</label>
+							<input name="imgs" type="file" class="form-control" multiple required />
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="form-group">
+							<label>Post Banner</label>
+							<input name="banner" type="file" class="form-control" required />
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Product Type</label>
+							<select asp-for="productss.Category" class="form-control" required>
+								<option value="">Please Select Product Type</option>
+								<option value="scientific">Scientific Machinery</option>
+								<option value="medicine">Medicine</option>
+							</select>
+
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Stock</label>
+							<input asp-for="productss.Stock" type="number" min="50" max="2000" class="form-control" placeholder="Product Stock" required>
+						</div>
+					</div>
+
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Actual Price</label>
+							<input asp-for="productss.Price" type="number" min="200" max="200000" class="form-control" placeholder="Actual Product Price" required>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label>Sale Price</label>
+							<input asp-for="productss.Saleprice" type="number" min="200" max="200000" class="form-control" placeholder="After Sale Product Price" required>
+						</div>
+					</div>
+
+				</div>
+				<!-- /row-->
+			</div>
+			<!-- /box_general-->
+			<input type="submit" class="btn_1 medium" value="Save" />
+		</form>
+	</div>
+	<!-- /.container-fluid-->
+</div>

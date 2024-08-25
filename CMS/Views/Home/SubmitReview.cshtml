@@ -1,0 +1,85 @@
+﻿@{
+
+    Layout = "_UserLayout";
+}
+@* @model CMS.Models.TblFeedback; *@
+<main>
+	<div id="breadcrumb">
+		<div class="container">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Category</a></li>
+				<li>Page active</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /breadcrumb -->
+	<form method="post">
+	<div class="container margin_60_35">
+		<div class="row justify-content-center">
+			<div class="col-lg-8">
+				<div class="box_general_3 write_review">
+					<h1>Write a review for Dr. Julia Smooths</h1>
+						@if (TempData["review_submitted"] != null)
+						{
+							<div class="alert alert-success">
+								@TempData["review_submitted"]
+							</div>
+						}
+					<div class="rating_submit">
+						<div class="form-group">
+							<label class="d-block">Overall rating</label>
+							<span class="rating">
+									<input type="radio" class="rating-input" id="5_star"  value=5 name="rating_input">
+									<label for="5_star" class="rating-star"></label>
+									<input type="radio" class="rating-input" id="4_star"  value=4 name="rating_input">
+									<label for="4_star" class="rating-star"></label>
+									<input type="radio" class="rating-input" id="3_star"  value=3 name="rating_input">
+									<label for="3_star" class="rating-star"></label>
+									<input type="radio" class="rating-input" id="2_star"  value=2 name="rating_input">
+									<label for="2_star" class="rating-star"></label>
+									<input type="radio" class="rating-input" value=1 id="1_star"  name="rating_input">
+									<label for="1_star" class="rating-star"></label>	
+
+							</span>
+						</div>
+					</div>
+					<!-- /rating_submit -->
+					<div class="form-group">
+						<label>Title of your review</label>
+							<input class="form-control" name="Title" type="text" required placeholder="If you could say it in one sentence, what would you say?">
+					</div>
+					<div class="form-group">
+						<label>Your review</label>
+							<textarea class="form-control" name="Text" style="height: 180px;" required placeholder="Write your review here ..."></textarea>
+					</div>
+					<hr>
+					<div class="form-group">
+						<div class="checkboxes add_bottom_30 add_top_15">
+							<label class="container_check">
+								I accept <a href="#0">terms and conditions and general policy</a>
+								<input type="checkbox" id="acceptCheckbox">
+								<span class="checkmark"></span>
+							</label>
+						</div>
+					</div>
+					<button class="btn_1" type="submit" id="submitButton">Submit review</button>
+				</div>
+			</div>
+		</div>
+		<!-- /row -->
+	</div>
+	</form>
+	<!-- /container -->
+</main>
+<script>
+	// Get the checkbox and button elements
+	var acceptCheckbox = document.getElementById('acceptCheckbox');
+	var submitButton = document.getElementById('submitButton');
+
+	// Add an event listener to the checkbox
+	acceptCheckbox.addEventListener('change', function () {
+		// If checkbox is checked, enable the button; otherwise, disable it
+		submitButton.disabled = !acceptCheckbox.checked;
+	});
+</script>

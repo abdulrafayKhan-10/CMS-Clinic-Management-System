@@ -1,0 +1,101 @@
+﻿@{
+	Layout = "_UserLayout";
+}
+@model CMS.Models.TblUpcomingEvent
+
+
+<main>
+	<div id="breadcrumb">
+		<div class="container">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Events</a></li>
+				<li>Booking</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /breadcrumb -->
+
+	<div class="container margin_60">
+		<div class="row">
+			<div class="col-xl-8 col-lg-8">
+				<div class="box_general_3 cart">
+
+
+					<div class="form_title">
+						<h3><strong>+</strong>Billing Details</h3>
+					</div>
+					<div class="step">
+						<div class="row">
+							<div class="col-md-12 col-sm-12">
+								<ul>
+									<li>Easy Paisa: XXXX-XXXX-XXXX</li>
+									<br>
+									<li>Jazz Cash: XXXX-XXXX-XXXX</li>
+									<br>
+									<li>Bank Transfer: XXXX-XXXX-XXXX</li>
+								</ul>
+
+							</div>
+						</div>
+						<form method="post" enctype="multipart/form-data">
+						<div class="row">
+							<div class="col-md-12 col-sm-12">
+								<div class="form-group">
+									<label>Transaction Image</label>
+										<input required type="file" name="img" class="form-control p-2">
+								</div>
+								<p>Submit the Screen Shot Image of transaction Details </p>
+							</div>
+							<input name="userid" type="hidden" value="@TempData["id"]" />
+								<input name="eventid" type="hidden" value="@Model.Id" />
+
+							
+							<input type="submit" class="btn_1 full-width" value="Confirm and pay" />
+						</div>
+						
+						</form>
+						<!--End row -->
+					</div>
+				</div>
+			</div>
+			<!-- /col -->
+			<aside class="col-xl-4 col-lg-4" id="sidebar">
+				<div class="box_general_3 booking">
+						<div class="title">
+							<h3>Your booking</h3>
+						</div>
+						<div class="summary">
+							<ul>
+								<li>Name: &nbsp; <strong class="float-right">@TempData["Name"]</strong></li>
+								<li>Email: &nbsp; <strong class="float-right">@TempData["Email"]</strong></li>
+							<li>Topic: &nbsp; <strong class="float-right">@Model.Topic</strong></li>
+							<li>Date: &nbsp; <strong class="float-right">@Model.Date</strong></li>
+							<li>Time: &nbsp; <strong class="float-right">@Model.Time</strong></li>
+							<li>Faculty: &nbsp; <strong class="float-right">@Model.Faculty</strong></li>
+
+
+
+
+							</ul>
+						</div>
+						<ul class="treatments checkout clearfix">
+							<li>
+							Entry Fee: &nbsp; <strong class="float-right">Rs.@Model.EntryFee</strong>
+							</li>
+							<li class="total">
+							Total: &nbsp; Rs.<strong class="float-right">@Model.EntryFee</strong>
+							</li>
+						</ul>
+						<!-- <hr> -->
+						
+					
+				</div>
+				<!-- /box_general -->
+			</aside>
+			<!-- /asdide -->
+		</div>
+		<!-- /row -->
+	</div>
+	<!-- /container -->
+</main>

@@ -1,0 +1,65 @@
+﻿@{
+
+    Layout = "_AdminLayout";
+}
+@model IEnumerable<TblOrder>
+
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="#">Dashboard</a>
+            </li>
+            <li class="breadcrumb-item active">Orders</li>
+        </ol>
+        <!-- Example DataTables Card-->
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fa fa-table"></i>All Order List
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                              
+                                <th>Date</th>
+                                <th>Email</th>
+                                <th>Address</th>
+                                <th>Total Purchase</th>
+                                <th>View</th>
+                                <th>Status</th>
+
+ 
+                            </tr>
+                        </thead>
+
+                        @foreach (var tempData in Model)
+                        {
+                            <tbody>
+                                <tr>
+                                   
+                                    <td>@tempData.Date</td>
+                                    <td>@tempData.UId</td>
+                                    <td>@tempData.Address</td>
+                                    <td>Rs. @tempData.TotalPurchase</td>
+                                    <td><a class="btn btn-primary" asp-action="Purchases" asp-controller="Admin" asp-route-id="@tempData.Id">View Items</a></td>
+                                    <td><a class="btn btn-success" asp-action="OrderUpdate" asp-controller="Admin" asp-route-id="@tempData.Id">Delivered</a></td>
+                                    
+
+
+                                </tr>
+
+                            </tbody>
+
+                        }
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+        <!-- /tables-->
+    </div>
+    <!-- /container-fluid-->
+</div>

@@ -1,0 +1,69 @@
+﻿@{
+
+    Layout = "_AdminLayout";
+}
+@model IEnumerable<TblUpcomingEvent>
+
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="#">Dashboard</a>
+            </li>
+            <li class="breadcrumb-item active">Events</li>
+        </ol>
+        <!-- Example DataTables Card-->
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fa fa-table"></i>All Event List
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Topic</th>
+                                <th>Details</th>
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>T_Seats</th>
+                                <th>Staff</th>
+                                <th>Fee</th>
+                                <th>Location</th>
+                                <th>Banner
+                                </th>
+                            </tr>
+                        </thead>
+
+                        @foreach (var tempData in Model)
+                        {
+                            <tbody>
+                                <tr>
+                                    <td>@tempData.Id</td>
+                                    <td>@tempData.Topic</td>
+                                    <td>@tempData.Details</td>
+                                    <td>@tempData.Date</td>
+                                    <td>@tempData.Time</td>
+                                    <td>@tempData.TotalSeats</td>
+                                    <td>@tempData.Faculty</td>
+                                    <td>@tempData.EntryFee</td>
+                                    <td>@tempData.Location</td>
+                                    <td> <img height="60px" width="60px" src="~/@tempData.Banner"> </td>
+
+
+                                </tr>
+
+                            </tbody>
+
+                        }
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+        <!-- /tables-->
+    </div>
+    <!-- /container-fluid-->
+</div>

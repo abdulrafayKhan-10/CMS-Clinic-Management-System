@@ -1,0 +1,135 @@
+﻿@{
+	Layout = "_AdminLayout";
+}
+@model CMS.Models.TblAbout;
+
+<div class="content-wrapper">
+	<div class="container-fluid">
+		<!-- Breadcrumbs-->
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">
+				<a href="#">Dashboard</a>
+			</li>
+			<li class="breadcrumb-item active">About Us Content</li>
+		</ol>
+		<div class="box_general padding_bottom">
+			<div class="header_box version_2">
+				<h2><i class="fa fa-book"></i>About Us Content</h2>
+			</div>
+
+
+
+			<form method="post" enctype="multipart/form-data">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Main Title</label>
+
+						<input type="text"  asp-for="MainTitle" class="form-control" placeholder="Main Title">
+					</div>
+				</div>
+			</div>
+			<!-- /row-->
+
+
+
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Heading One</label>
+						<input type="text"  asp-for="Headingone" class="form-control" placeholder="Heading 1">
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>image 1</label>
+						<input type="file" name="imgone" class="form-control" >
+					</div>
+				</div>
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Paragraph 1</label>
+						<textarea asp-for = "Textone" class="form-control"></textarea>
+					</div>
+				</div>
+			</div>
+
+
+
+			<!-- /row-->
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Heading 2</label>
+						<input type="text" asp-for="Headingtwo" class="form-control" placeholder="Heading 2">
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Image 2</label>
+						<input type="file" name="imgtwo" class="form-control">
+					</div>
+				</div>
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Paragraph 2</label>
+						<textarea asp-for="Texttwo" class="form-control"></textarea>
+					</div>
+				</div>
+			</div>
+
+			<!-- /row-->
+			
+			<div class="row">
+
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>headin 3</label>
+						<input type="text"asp-for="Headingthree" class="form-control" placeholder="Heading 3">
+					</div>
+				</div>
+				
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Image 3</label>
+						<input type="file" name="imgthree" class="form-control">
+					</div>
+				</div>
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Paragraph 3</label>
+						<textarea asp-for="Textthree" class="form-control"></textarea>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Heading 4</label>
+						<input type="text" asp-for="Headingfour" class="form-control" placeholder="Heading 4">
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="form-group">
+						<label>Image 4</label>
+						<input type="file" name="imgfour" class="form-control">
+					</div>
+				</div>
+				<div class="col-md-12">
+					<div class="form-group">
+						<label>Paragraph 4</label>
+						<textarea asp-for="Textfour" class="form-control"></textarea>
+					</div>
+				</div>
+			</div>
+				<input type="submit" class ="btn_1 medium" />
+					</form>
+
+			
+
+
+
+			
+			<!-- /row-->
+		</div>

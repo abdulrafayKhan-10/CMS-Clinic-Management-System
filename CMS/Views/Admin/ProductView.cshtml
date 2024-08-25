@@ -1,0 +1,60 @@
+﻿@{
+    Layout = "_AdminLayout";
+}
+@model IEnumerable<TblProduct>
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="#">Dashboard</a>
+            </li>
+            <li class="breadcrumb-item active">Tables</li>
+        </ol>
+        <!-- Example DataTables Card-->
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fa fa-table"></i> Data Table Example
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>P-Name</th>
+                                <th>Company</th>
+                                <th>Description</th>
+                                <th>Stock</th>
+                                <th>Price</th>
+                                <th>Sale Price</th>
+                                <th>Image</th>
+                                <th>Category</th>
+
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var prod in Model){
+                            <tr>
+                               <td>@prod.Id</td>
+                                    <td>@prod.ProductName</td>
+                                    <td>@prod.CompanyName</td>
+                                    <td>@prod.Description</td>
+                                    <td>@prod.Stock</td>
+                                    <td>@prod.Price</td>
+                                    <td>@prod.Saleprice</td>
+                                    <td><img src="~/@prod.Image" width="150px" height="150px"/></td>
+                               <td>@prod.Category</td>
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+        <!-- /tables-->
+    </div>
+    <!-- /container-fluid-->
+</div>

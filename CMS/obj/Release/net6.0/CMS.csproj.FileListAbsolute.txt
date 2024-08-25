@@ -1,0 +1,9 @@
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.csproj.AssemblyReference.cache
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.AssemblyInfoInputs.cache
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.AssemblyInfo.cs
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.csproj.CoreCompileInputs.cache
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.MvcApplicationPartsAssemblyInfo.cache
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.RazorAssemblyInfo.cache
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.RazorAssemblyInfo.cs
+E:\e-pro\CMS\CMS\obj\Release\net6.0\CMS.sourcelink.json

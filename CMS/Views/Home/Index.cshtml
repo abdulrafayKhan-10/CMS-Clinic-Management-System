@@ -1,0 +1,127 @@
+﻿@{
+
+    Layout = "_UserLayout";
+}
+@model CMS.Models.AllTables
+<main>
+	<div class="hero_home version_1">
+		<div class="content">
+			<h3>Providence Clinic</h3>
+			<p><small>
+					Providence Clinic: Your trusted healthcare provider. Experience compassionate care in a welcoming environment.
+				</small>
+			</p>
+			
+		</div>
+	</div>
+	<!-- /Hero -->
+
+	<div class="container margin_120_95">
+		<div class="main_title">
+			<h2>Discover the <strong>online</strong> Products!</h2>
+			<p>
+				Discover our online products! Enjoy hassle-free shopping from the comfort of your home. Browse through our wide selection and find the perfect items for your needs. With easy online ordering, shopping has never been more convenient. Experience the convenience of shopping anytime, anywhere!
+			</p>
+			<p class="text-center"><a asp-action="ProductsPage" asp-controller="Home" asp-route-category="All" class="btn_1 medium mt-5">Most Viewed Products</a></p>
+		</div>
+		<br>
+		
+		<div class="main_title">
+			<h2>How to Book Events!</h2>
+			<p>
+				Discovering and booking an event with us is a straightforward process designed to make your experience seamless and enjoyable.
+			</p>
+			
+		</div>
+
+		<div class="row add_bottom_30">
+			<div class="col-lg-4">
+				<div class="box_feat" id="icon_1">
+					<span></span>
+					<h3>Find Event</h3>
+					<p>
+						Find your next event hassle-free!
+					</p>
+				
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="box_feat" id="icon_2">
+					<span></span>
+					<h3>View Event</h3>
+					<p>Dive into our exciting lineup of events</p>
+					
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="box_feat" id="icon_3">
+					<h3>Book an Event</h3>
+					<p>Book your Event hassle-free!</p>
+			
+				</div>
+			</div>
+		</div>
+		<!-- /row -->
+		<p class="text-center"><a asp-action="ShowEvents" asp-controller="Home" class="btn_1 medium">Find Events</a></p>
+
+	</div>
+	<!-- /container -->
+
+	<div class="bg_color_1">
+		<div class="container margin_120_95">
+			<div class="main_title">
+				<h2>Most Viewed Products</h2>
+				<p>
+					Discover our online products! Enjoy hassle-free shopping from the comfort of your home. Experience the convenience of shopping anytime, anywhere!
+				</p>
+			</div>
+			<div id="reccomended" class="owl-carousel owl-theme">
+				@foreach (var product in Model.product_list)
+				{
+				<div class="item">
+					<a asp-action="ProductDetails" asp-route-id="@product.Id" asp-controller="Home">
+							
+						<div class="title">
+								<h4>@product.ProductName<em>@product.Saleprice <span style="text-decoration:line-through;">@product.Price</span></em></h4>
+						</div><img src="~/@product.Image" alt="">
+					</a>
+				</div>
+				}
+			</div>
+			
+			<p class="text-center"><a asp-action="ProductsPage" asp-controller="Home" asp-route-category="All" class="btn_1 medium mt-5">Most Viewed Products</a></p>
+			<!-- /carousel -->
+		</div>
+		<!-- /container -->
+	</div>
+	<!-- /white_bg -->
+
+	<div class="container margin_120_95">
+		<div class="main_title">
+			<h2>Upcoming Events</h2>
+			<p>Explore upcoming events! Stay in the loop with our latest workshops, seminars, and gatherings. Join us for enriching experiences. Mark your calendar today!</p>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-xl-4 col-lg-5 col-md-6">
+				<div class="list_home">
+					<div class="list_title">
+						<i class="icon_pin_alt"></i>
+						<h3>Search by City or Zone</h3>
+					</div>
+					<ul>
+						@foreach (var events in Model.upcoming_events)
+						{
+							
+							<li><a asp-action="ShowEvents" asp-controller="Home"><strong>@events.Id</strong>@events.Topic</a></li>
+						}
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- /row -->
+	</div>
+	<!-- /container -->
+
+
+</main>

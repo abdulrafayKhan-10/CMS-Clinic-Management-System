@@ -1,0 +1,81 @@
+﻿@{
+
+    Layout = "_AdminLayout";
+}
+@model IEnumerable<TblCheckout>
+
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a asp-action="Orders" asp-controller="Admin">Orders</a>
+            </li>
+            <li class="breadcrumb-item active">Single Products</li>
+        </ol>
+        <!-- Example DataTables Card-->
+        <div class="card mb-3">
+            <div class="card-header">
+                <i class="fa fa-table"></i> Purchases List
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                
+                                <th>P-Name</th>
+                                <th>P-Price</th>
+                                <th>Quantity</th>
+                                
+                                
+
+                            </tr>
+                        </thead>
+                        @{
+                            // Initialize a variable to hold the total price
+                            decimal totalPrice = 0;
+                        }
+
+                        @foreach (var tempData in Model)
+                        {
+                            <tbody>
+                                <tr>
+                                    
+                                    <td>@tempData.PName</td>
+                                    <td>Rs. @tempData.PPrice</td>
+                                    <td>@tempData.PQty</td>
+                                  
+                                    
+
+
+
+                                </tr>
+
+                            </tbody>
+                             
+                        // Increment the total price by the product price multiplied by the quantity
+                            totalPrice += (tempData.PPrice.GetValueOrDefault()) * (tempData.PQty.GetValueOrDefault());
+
+
+                        }
+@*                         <tfoot>
+                            <tr>
+                                
+                                <td></td>
+                                
+                                <td><strong>Total Price:</strong></td>
+                                <td>@totalPrice</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tfoot> *@
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+        <!-- /tables-->
+    </div>
+    <!-- /container-fluid-->
+</div>

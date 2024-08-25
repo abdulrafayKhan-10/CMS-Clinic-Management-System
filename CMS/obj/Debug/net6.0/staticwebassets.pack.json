@@ -1,0 +1,1957 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CMS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\AboutImg\\03f86bea-0808-4a3b-98ee-6441ab76276c7c8b8fd3-63ee-4a75-a65d-08612f21a248Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\AboutImg\\03f86bea-0808-4a3b-98ee-6441ab76276c7c8b8fd3-63ee-4a75-a65d-08612f21a248Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\AboutImg\\1a621bc9-d6ca-45d0-8dfd-ed114af62809healthylaws.PNG",
+      "PackagePath": "staticwebassets\\AboutImg\\1a621bc9-d6ca-45d0-8dfd-ed114af62809healthylaws.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\AboutImg\\42008fd6-5105-4843-a1cc-e458dd8e2c50healthylaws.PNG",
+      "PackagePath": "staticwebassets\\AboutImg\\42008fd6-5105-4843-a1cc-e458dd8e2c50healthylaws.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\AboutImg\\7be30567-a799-4be0-87c1-015ba677e3b8Banner-944x512.jpg",
+      "PackagePath": "staticwebassets\\AboutImg\\7be30567-a799-4be0-87c1-015ba677e3b8Banner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\AboutImg\\d9024aab-f51d-4d6a-adc3-ba7953b526fekkPHxg.png",
+      "PackagePath": "staticwebassets\\AboutImg\\d9024aab-f51d-4d6a-adc3-ba7953b526fekkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\css\\admin.css",
+      "PackagePath": "staticwebassets\\Admincss\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Admincss\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\6a44f0e35b10e6ed063eeebf7ed844f9.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\6a44f0e35b10e6ed063eeebf7ed844f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\WARDIERE.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\WARDIERE.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\apple-touch-icon-114x114-precomposed.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\apple-touch-icon-114x114-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\apple-touch-icon-144x144-precomposed.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\apple-touch-icon-144x144-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\apple-touch-icon-57x57-precomposed.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\apple-touch-icon-57x57-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\apple-touch-icon-72x72-precomposed.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\apple-touch-icon-72x72-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\avatar6.jpg",
+      "PackagePath": "staticwebassets\\Admincss\\img\\avatar6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\download.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admincss\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\horlogo.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\horlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\img\\logo_2x.png",
+      "PackagePath": "staticwebassets\\Admincss\\img\\logo_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\admin-charts-all.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\admin-charts-all.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\admin-datatables.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\admin-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\admin.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote-lite.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote.css",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote.js.map",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\summernote.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\js\\editor\\templates.js",
+      "PackagePath": "staticwebassets\\Admincss\\js\\editor\\templates.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\admin.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\admin.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\config.rb",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\navbar\\_navbar_colors.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\navbar\\_navbar_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\navbar\\_navbar_fixed.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\navbar\\_navbar_fixed.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\navbar\\_navbar_global.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\navbar\\_navbar_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\navbar\\_navbar_static.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\navbar\\_navbar_static.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\scss\\navbar\\_navbar_toggle.scss",
+      "PackagePath": "staticwebassets\\Admincss\\scss\\navbar\\_navbar_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\animate.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\animate.min.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\dropzone.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\dropzone.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery.selectbox-0.2.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery.selectbox-0.2.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\retina-replace.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\retina-replace.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Admincss\\vendor\\retina-replace.min.js",
+      "PackagePath": "staticwebassets\\Admincss\\vendor\\retina-replace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\2d62976d-f1ad-4a32-8cf2-57dedeeda37ckkPHxg.png",
+      "PackagePath": "staticwebassets\\BannerImgs\\2d62976d-f1ad-4a32-8cf2-57dedeeda37ckkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\35ee1c74-3f3a-4705-832d-8f5c732d3a43W3_02.04.22_PurposeofMedConferences.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\35ee1c74-3f3a-4705-832d-8f5c732d3a43W3_02.04.22_PurposeofMedConferences.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\37c21d43-e895-4fc9-b5ad-9e6d8adf9e56Banner-944x512.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\37c21d43-e895-4fc9-b5ad-9e6d8adf9e56Banner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\685b47cc-383d-47d5-863c-c096a515ed4e4325085.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\685b47cc-383d-47d5-863c-c096a515ed4e4325085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\88cf4fa0-7f83-4477-9225-c4ecf5730355Capt.PNG",
+      "PackagePath": "staticwebassets\\BannerImgs\\88cf4fa0-7f83-4477-9225-c4ecf5730355Capt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\a048db7d-a56a-47a6-8fb0-5579787deaacistockphoto-1277148425-612x612.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\a048db7d-a56a-47a6-8fb0-5579787deaacistockphoto-1277148425-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\b450d10f-4dc8-4a2d-8136-e7b1868653b1istockphoto-1277148425-612x612.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\b450d10f-4dc8-4a2d-8136-e7b1868653b1istockphoto-1277148425-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\bfe911fa-f9b2-481c-a9c6-b19f96634e2fBanner-944x512.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\bfe911fa-f9b2-481c-a9c6-b19f96634e2fBanner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\cf38588d-a672-4189-8bbe-a19c22969686kkPHxg.png",
+      "PackagePath": "staticwebassets\\BannerImgs\\cf38588d-a672-4189-8bbe-a19c22969686kkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\d1ee377e-b687-4423-86a1-7b0e55a7297cistockphoto-1277148425-612x612.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\d1ee377e-b687-4423-86a1-7b0e55a7297cistockphoto-1277148425-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\d4511946-bac4-4797-a160-2656c349b533Banner-944x512.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\d4511946-bac4-4797-a160-2656c349b533Banner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\d80a9ee5-47c3-4add-85a5-4d8b98cef54acropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\d80a9ee5-47c3-4add-85a5-4d8b98cef54acropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\dd58059d-a442-4b63-83ab-9c1484baa562Banner-944x512.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\dd58059d-a442-4b63-83ab-9c1484baa562Banner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\f1e98b2e-980a-48ee-9209-ac0f1e9db102cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\BannerImgs\\f1e98b2e-980a-48ee-9209-ac0f1e9db102cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\BannerImgs\\f65fb58c-1fcf-461a-be82-4bf15e7c9e01Capture.PNG",
+      "PackagePath": "staticwebassets\\BannerImgs\\f65fb58c-1fcf-461a-be82-4bf15e7c9e01Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\03780d68-26b8-4395-8001-96c52d602e38cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\03780d68-26b8-4395-8001-96c52d602e38cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\18558f1f-7529-4372-9e31-d098662e973fcropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\18558f1f-7529-4372-9e31-d098662e973fcropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\1e54d6de-e342-4f3d-ac9c-7c0b3549e39a2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\1e54d6de-e342-4f3d-ac9c-7c0b3549e39a2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\2483f603-04b1-4d68-a00a-f938ccf1a6dc2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\2483f603-04b1-4d68-a00a-f938ccf1a6dc2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\34a6cd55-98a7-4630-aa50-d7b6d71c1af0cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\34a6cd55-98a7-4630-aa50-d7b6d71c1af0cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\37d691be-a7d2-49e7-a767-6a35a9cb2e80cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\37d691be-a7d2-49e7-a767-6a35a9cb2e80cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\40c23de4-a17a-48a7-bb61-d942150c8036cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\40c23de4-a17a-48a7-bb61-d942150c8036cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\40c42f7e-2b32-45bb-9e40-35801dd911fdcropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\40c42f7e-2b32-45bb-9e40-35801dd911fdcropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\41b60416-db90-48b3-a030-8fc1b541702fdownload (4).jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\41b60416-db90-48b3-a030-8fc1b541702fdownload (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\4aac1773-b0b1-4c55-8653-a258c02ca18d2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\4aac1773-b0b1-4c55-8653-a258c02ca18d2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\5416e1e5-deaa-4de0-a70d-28cb8b3f3b442023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\5416e1e5-deaa-4de0-a70d-28cb8b3f3b442023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\5dc37bd6-d1b7-4f62-9e65-6eb5dc7eec041.webp",
+      "PackagePath": "staticwebassets\\TransactionImages\\5dc37bd6-d1b7-4f62-9e65-6eb5dc7eec041.webp"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\60b74594-e30c-4346-a29a-5528108af919kkPHxg.png",
+      "PackagePath": "staticwebassets\\TransactionImages\\60b74594-e30c-4346-a29a-5528108af919kkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\6f1d0540-9d82-43d7-a1ed-5b020b68cc0ccropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\6f1d0540-9d82-43d7-a1ed-5b020b68cc0ccropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\75c5eb25-a071-4622-8872-40d7dfba5685cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\75c5eb25-a071-4622-8872-40d7dfba5685cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\7682ad90-b516-4c84-86ac-b894848a902aWe bare bears \uD83D\uDC3B.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\7682ad90-b516-4c84-86ac-b894848a902aWe bare bears \uD83D\uDC3B.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\89ee3812-c6ef-4159-8450-6ebdacfaa4dccropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\89ee3812-c6ef-4159-8450-6ebdacfaa4dccropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\8e785dcc-5aa1-4c2c-94e5-6e47e370a7d2We bare bears \uD83D\uDC3B.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\8e785dcc-5aa1-4c2c-94e5-6e47e370a7d2We bare bears \uD83D\uDC3B.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\8ff43dd4-2e4b-4fce-9629-b2eeae836873cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\8ff43dd4-2e4b-4fce-9629-b2eeae836873cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\90b9279b-c1d8-4ced-a08f-7bbe501bcb59download (3).jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\90b9279b-c1d8-4ced-a08f-7bbe501bcb59download (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\9ce9251f-2fb4-4733-9284-d68a7616b74ecropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\9ce9251f-2fb4-4733-9284-d68a7616b74ecropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\9fb483ab-4dce-45b4-a80f-4e0611bbbc76cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\9fb483ab-4dce-45b4-a80f-4e0611bbbc76cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\a29ac1b4-4ff9-406c-a892-a19e6219b1e2Capture.PNG",
+      "PackagePath": "staticwebassets\\TransactionImages\\a29ac1b4-4ff9-406c-a892-a19e6219b1e2Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\a7d9ecc2-9528-4bb8-8cf7-572ca3463219ArtStation - Explore.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\a7d9ecc2-9528-4bb8-8cf7-572ca3463219ArtStation - Explore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\ac288396-3690-403d-831b-24d12941b772cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\ac288396-3690-403d-831b-24d12941b772cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\b4eb38ba-dcce-4568-8934-0b71f84ec14adownload (4).jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\b4eb38ba-dcce-4568-8934-0b71f84ec14adownload (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\bb36b0eb-2c4e-4eec-8fe8-ab82275362d4cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\bb36b0eb-2c4e-4eec-8fe8-ab82275362d4cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\bdbdf0ff-69fb-4b11-992e-b84b74af572fcropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\bdbdf0ff-69fb-4b11-992e-b84b74af572fcropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\c29984e1-febb-4af6-b593-c6b9c6b8bd19download (1).jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\c29984e1-febb-4af6-b593-c6b9c6b8bd19download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\c40f9ede-bdc9-497f-9cff-28d1e45b4a5bcropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\c40f9ede-bdc9-497f-9cff-28d1e45b4a5bcropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\c65d9d12-706f-4476-ba32-f010c037db26cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\c65d9d12-706f-4476-ba32-f010c037db26cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\d2430a41-24d4-4acb-bd53-26a861bf6413cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\d2430a41-24d4-4acb-bd53-26a861bf6413cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\d8f05a95-ee3c-4db4-a355-7deccdd2b35e2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\d8f05a95-ee3c-4db4-a355-7deccdd2b35e2023 Ford Mustang Car aesthetic _ Cool cars _ car wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\e0979d8a-6dcb-4396-839b-9e4f030fc62fcropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\e0979d8a-6dcb-4396-839b-9e4f030fc62fcropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\e4c08d77-1fc9-452e-9021-60c9904a6973cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\e4c08d77-1fc9-452e-9021-60c9904a6973cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\TransactionImages\\e8937a2d-09d1-4d5e-8ea0-6037f7cfbed4cropped-qxOGay-removebg-preview.jpg",
+      "PackagePath": "staticwebassets\\TransactionImages\\e8937a2d-09d1-4d5e-8ea0-6037f7cfbed4cropped-qxOGay-removebg-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\assets\\booking.php",
+      "PackagePath": "staticwebassets\\Usercss\\assets\\booking.php"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\assets\\contact.php",
+      "PackagePath": "staticwebassets\\Usercss\\assets\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\assets\\register_doctor.php",
+      "PackagePath": "staticwebassets\\Usercss\\assets\\register_doctor.php"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\assets\\validate.js",
+      "PackagePath": "staticwebassets\\Usercss\\assets\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Usercss\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\blog.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\date_picker.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\date_picker.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\datedropper.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\datedropper.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\datedropper.min.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\datedropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\all_icons.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\all_icons.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\all_icons_min.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\all_icons_min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\fontello-codes.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\fontello-codes.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\icon_set_1.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\icon_set_1.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\icon_set_2.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\icon_set_2.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\css\\icon_set_3.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\css\\icon_set_3.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\demo_icon_set_1.html",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\demo_icon_set_1.html"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\demo_icon_set_2.html",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\demo_icon_set_2.html"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\demo_icon_set_3.html",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\demo_icon_set_3.html"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\icon_set_1.eot",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\icon_set_1.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\icon_set_1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\icon_set_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\icon_set_1.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\icon_set_1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\icon_fonts\\font\\icon_set_1.woff",
+      "PackagePath": "staticwebassets\\Usercss\\css\\icon_fonts\\font\\icon_set_1.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\menu.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\01.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\03.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\04.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\05.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\06.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\07.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\08.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\overlays\\09.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\overlays\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Usercss\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\src\\datedropper.eot",
+      "PackagePath": "staticwebassets\\Usercss\\css\\src\\datedropper.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\src\\datedropper.svg",
+      "PackagePath": "staticwebassets\\Usercss\\css\\src\\datedropper.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\src\\datedropper.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\css\\src\\datedropper.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\src\\datedropper.woff",
+      "PackagePath": "staticwebassets\\Usercss\\css\\src\\datedropper.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\style.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\style2.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\style2.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\tables.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\tables.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\timedropper.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\timedropper.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\timedropper.min.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\timedropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\vegas.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\vegas.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\vegas.min.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\vendors.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\vendors.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\css\\vendors.uncompressed.css",
+      "PackagePath": "staticwebassets\\Usercss\\css\\vendors.uncompressed.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\about_1.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\app_img.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\app_img.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple-touch-icon-114x114-precomposed.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple-touch-icon-114x114-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple-touch-icon-144x144-precomposed.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple-touch-icon-144x144-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple-touch-icon-57x57-precomposed.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple-touch-icon-57x57-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple-touch-icon-72x72-precomposed.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple-touch-icon-72x72-precomposed.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple_app.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple_app.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\apple_app_2x.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\apple_app_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\arrow-gray-1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\arrow-gray-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\arrow_down.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\arrow_down.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\arrow_down_menu.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\arrow_down_menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\arrow_left.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\arrow_left.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\arrow_right.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\arrow_right.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_2.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_3.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_4.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_5.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\badges\\badge_6.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\badges\\badge_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\bg_2.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\bg_2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\bg_menu.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\bg_menu.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\camera.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\checkbox.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\checkbox.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\checkbox.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\checkbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\close_infobox.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\close_infobox.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\doctor_listing_1.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\doctor_listing_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\doctors_icon.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\doctors_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Usercss\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\google_play_app.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\google_play_app.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\google_play_app_2x.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\google_play_app_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\hero_bg_1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\hero_bg_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\hero_home_bg_1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\hero_home_bg_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon-home-1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon-home-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon-home-2.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon-home-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon-home-3.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon-home-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_1.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_2.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_3.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_4.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_5.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_6.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_7.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_7.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_cat_8.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_cat_8.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\icon_ccv.gif",
+      "PackagePath": "staticwebassets\\Usercss\\img\\icon_ccv.gif"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\logo_no_name.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\logo_no_name.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\map-marker-contacts.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\map-marker-contacts.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\patient_icon.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\patient_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\payments.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\payments_2x.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\payments_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\paypal_bt.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\paypal_bt.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\pins\\Doctors.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\pins\\Doctors.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\search.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\select-icons.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\select-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\shadow_pic.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\shadow_pic.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\slides\\1.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\slides\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\slides\\2.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\slides\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\slides\\3.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\slides\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\small-arrow.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\small-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\stars.svg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\stars.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\subheader_bg_1.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\subheader_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\img\\video_fix.png",
+      "PackagePath": "staticwebassets\\Usercss\\img\\video_fix.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\ResizeSensor.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\ResizeSensor.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\ResizeSensor.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\ResizeSensor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\common_scripts.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\common_scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\common_scripts.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\common_scripts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\datedropper.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\datedropper.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\datedropper.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\datedropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\functions.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\hideShowPassword.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\hideShowPassword.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\hideShowPassword.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\hideShowPassword.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\infobox.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\infobox.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\jquery.cookiebar.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\jquery.cookiebar.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\jquery.selectbox-0.2.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\jquery.selectbox-0.2.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\map_home.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\map_home.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\map_listing.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\map_listing.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\mapmarker.jquery.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\mapmarker.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\mapmarker_contacts_func.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\mapmarker_contacts_func.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\mapmarker_func.jquery.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\mapmarker_func.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\markerclusterer.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\markerclusterer.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\modernizr_tables.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\modernizr_tables.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\pw_strenght.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\pw_strenght.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\sticky-kit-1.4.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\sticky-kit-1.4.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\sticky-kit-1.4.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\sticky-kit-1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\sticky-kit.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\sticky-kit.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\tables_func.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\tables_func.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\tables_func_2.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\tables_func_2.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\theia-sticky-sidebar.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\theia-sticky-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\theia-sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\theia-sticky-sidebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\timedropper.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\timedropper.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\timedropper.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\timedropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\vegas.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\vegas.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\vegas.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\vegas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\video_header.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\video_header.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\wow.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\100x50_364e0-37885311_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\100x50_364e0-37885311_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\100x50_4e36b-42512211_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\100x50_4e36b-42512211_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\100x50_b9dee-42512210_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\100x50_b9dee-42512210_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\364e0-37885311_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\364e0-37885311_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\4e36b-42512211_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\4e36b-42512211_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\b9dee-42512210_ml.jpg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\b9dee-42512210_ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\css\\settings.css",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\jquery.revslider-doctor_slider_1.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\jquery.revslider-doctor_slider_1.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\jquery.revslider.embed.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\jquery.revslider.embed.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\rev-slider-files\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\Usercss\\rev-slider-files\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\_layout.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\blog.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\compass_app_log.txt",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\compass_app_log.txt"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\config.rb",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\menu.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\Usercss\\sass\\tables.scss",
+      "PackagePath": "staticwebassets\\Usercss\\sass\\tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\00351fd0-0372-45b6-8b3b-adfc881d59bdkkPHxg.png",
+      "PackagePath": "staticwebassets\\myImages\\00351fd0-0372-45b6-8b3b-adfc881d59bdkkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\038f2f17-24a2-458b-933e-2b3b0b05c978Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\038f2f17-24a2-458b-933e-2b3b0b05c978Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\0ae0b358-f7a3-4074-873a-8b558ceeed86stethoscope-isolated-white-surface.jpg",
+      "PackagePath": "staticwebassets\\myImages\\0ae0b358-f7a3-4074-873a-8b558ceeed86stethoscope-isolated-white-surface.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\277c3741-75cc-41e0-ab69-e344a77d9698person-using-tensiometer-blood-pressure.jpg",
+      "PackagePath": "staticwebassets\\myImages\\277c3741-75cc-41e0-ab69-e344a77d9698person-using-tensiometer-blood-pressure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\278b9d74-6238-4ad2-8c34-03f985ea9465Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\278b9d74-6238-4ad2-8c34-03f985ea9465Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\29770ab3-a270-4ef6-a987-eeecf43c7f1cNeuroCalm-foto-1.jpg",
+      "PackagePath": "staticwebassets\\myImages\\29770ab3-a270-4ef6-a987-eeecf43c7f1cNeuroCalm-foto-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\2d728b0c-c9be-48c1-b2a8-58da40bceac6cardio-clear-plus-30-compresse-735x735.jpg",
+      "PackagePath": "staticwebassets\\myImages\\2d728b0c-c9be-48c1-b2a8-58da40bceac6cardio-clear-plus-30-compresse-735x735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\309517f8-9ec9-4a02-bde6-a7df47c18aadNeuroCalm-foto-1.jpg",
+      "PackagePath": "staticwebassets\\myImages\\309517f8-9ec9-4a02-bde6-a7df47c18aadNeuroCalm-foto-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\37784b79-eb0b-41e1-b361-ec53f5103e76Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\37784b79-eb0b-41e1-b361-ec53f5103e76Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\3d2dfbab-3308-40bf-9363-ba56650c5f5ecardio-clear-plus-30-compresse-735x735.jpg",
+      "PackagePath": "staticwebassets\\myImages\\3d2dfbab-3308-40bf-9363-ba56650c5f5ecardio-clear-plus-30-compresse-735x735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\49818494-0570-494b-b60e-912df71dc45bBanner-944x512.jpg",
+      "PackagePath": "staticwebassets\\myImages\\49818494-0570-494b-b60e-912df71dc45bBanner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\4be0f4d9-0ee9-489b-b0df-baa3aac02e59person-using-tensiometer-blood-pressure.jpg",
+      "PackagePath": "staticwebassets\\myImages\\4be0f4d9-0ee9-489b-b0df-baa3aac02e59person-using-tensiometer-blood-pressure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\572a78aa-d544-4d06-8645-98889932832dNeuroCalm-foto-1.jpg",
+      "PackagePath": "staticwebassets\\myImages\\572a78aa-d544-4d06-8645-98889932832dNeuroCalm-foto-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\639b5979-8b2c-4447-9626-995b40ea201ehealthylaws.PNG",
+      "PackagePath": "staticwebassets\\myImages\\639b5979-8b2c-4447-9626-995b40ea201ehealthylaws.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\6b32e5dd-9732-4b1b-af9e-9e741aedbbd9healthylaws.PNG",
+      "PackagePath": "staticwebassets\\myImages\\6b32e5dd-9732-4b1b-af9e-9e741aedbbd9healthylaws.PNG"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\7162acc0-f850-4dcc-bf6d-2e7ef72c4e76cardio-clear-plus-30-compresse-735x735.jpg",
+      "PackagePath": "staticwebassets\\myImages\\7162acc0-f850-4dcc-bf6d-2e7ef72c4e76cardio-clear-plus-30-compresse-735x735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\7c8b8fd3-63ee-4a75-a65d-08612f21a248Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\7c8b8fd3-63ee-4a75-a65d-08612f21a248Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\7cd33217-6ced-4b5f-998c-5c8c4e9020f1cardio-clear-plus-30-compresse-735x735.jpg",
+      "PackagePath": "staticwebassets\\myImages\\7cd33217-6ced-4b5f-998c-5c8c4e9020f1cardio-clear-plus-30-compresse-735x735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\94755d07-a246-4a4b-82e7-519c67495531istockphoto-1130884625-612x612.jpg",
+      "PackagePath": "staticwebassets\\myImages\\94755d07-a246-4a4b-82e7-519c67495531istockphoto-1130884625-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\a3d643d9-c50e-4660-a630-9ca09a2a7328Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\a3d643d9-c50e-4660-a630-9ca09a2a7328Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\a5cbe233-89a7-493a-aed5-d67b84b6d97estethoscope-isolated-white-surface.jpg",
+      "PackagePath": "staticwebassets\\myImages\\a5cbe233-89a7-493a-aed5-d67b84b6d97estethoscope-isolated-white-surface.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\a857287e-7cbd-45be-b611-f83b6a9bf893stethoscope-isolated-white-surface.jpg",
+      "PackagePath": "staticwebassets\\myImages\\a857287e-7cbd-45be-b611-f83b6a9bf893stethoscope-isolated-white-surface.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\ad275a7d-a8eb-4d56-bdcc-2e620373d2b5Stethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\ad275a7d-a8eb-4d56-bdcc-2e620373d2b5Stethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\ad5c0cfe-9d24-44a9-9aa9-f7741bcbf43eNeuroCalm-foto-1.jpg",
+      "PackagePath": "staticwebassets\\myImages\\ad5c0cfe-9d24-44a9-9aa9-f7741bcbf43eNeuroCalm-foto-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\b6d54b9e-b65b-468b-88fe-f05a1d2df4b36138LurvciL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\myImages\\b6d54b9e-b65b-468b-88fe-f05a1d2df4b36138LurvciL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\c103ed06-8752-4259-8452-6cdd4e0c08ceBanner-944x512.jpg",
+      "PackagePath": "staticwebassets\\myImages\\c103ed06-8752-4259-8452-6cdd4e0c08ceBanner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\d4f2b377-f262-4e22-b09c-5d34252bb8ceBanner-944x512.jpg",
+      "PackagePath": "staticwebassets\\myImages\\d4f2b377-f262-4e22-b09c-5d34252bb8ceBanner-944x512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\df1e937a-1bf7-4077-a5cc-49c6fb995389stethoscope-isolated-white-surface.jpg",
+      "PackagePath": "staticwebassets\\myImages\\df1e937a-1bf7-4077-a5cc-49c6fb995389stethoscope-isolated-white-surface.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\f45df0a0-71c1-4cad-baf7-5a3f8dac451ekkPHxg.png",
+      "PackagePath": "staticwebassets\\myImages\\f45df0a0-71c1-4cad-baf7-5a3f8dac451ekkPHxg.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\f47f7ee3-1bab-411b-84e6-6d5a392da24b6138LurvciL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\myImages\\f47f7ee3-1bab-411b-84e6-6d5a392da24b6138LurvciL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\fa6431bc-ae08-4b9b-83c7-05a30940652fStethoscope-2.png",
+      "PackagePath": "staticwebassets\\myImages\\fa6431bc-ae08-4b9b-83c7-05a30940652fStethoscope-2.png"
+    },
+    {
+      "Id": "C:\\Users\\money\\OneDrive\\Desktop\\CMS\\CMS\\wwwroot\\myImages\\fce9fde1-b375-4a7f-acd5-61fda57e8bb7istockphoto-1130884625-612x612.jpg",
+      "PackagePath": "staticwebassets\\myImages\\fce9fde1-b375-4a7f-acd5-61fda57e8bb7istockphoto-1130884625-612x612.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CMS.props",
+      "PackagePath": "build\\CMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CMS.props",
+      "PackagePath": "buildMultiTargeting\\CMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CMS.props",
+      "PackagePath": "buildTransitive\\CMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,74 @@
+﻿@{
+	Layout = "_UserLayout";
+}
+@model IEnumerable<TblUpcomingEvent>
+
+<main>
+
+
+
+	<div class="container margin_60_35">
+		<div class="row ">
+			<div class="col">
+
+
+			@foreach (var item in Model)
+                        {
+							if (item.Date > DateTime.Now && item.TotalSeats > 0)
+					{
+						
+				<div class="strip_list">
+                        @* <img src="~/bannerimgs/bfe911fa-f9b2-481c-a9c6-b19f96634e2fbanner-944x512.jpg" /> *@
+					<figure>
+							<a href="detail-page.html"><img src="~/@item.Banner" alt=""></a>
+					</figure>
+					<small>@item.Faculty</small>
+					<h3>@item.Topic</h3>
+						<h6>Date: <span>@item.Date</span> </h6>
+						<h6>Time:  @item.Time</h6>
+						<h6>Location:  @item.Location</h6>
+						<h6>Seats Available:  @item.TotalSeats</h6>
+					<ul>
+						<li><a class="btn_listing">View on Map</a></li>
+							<li><a>Entry Fee:  @item.EntryFee</a></li>
+							@if (TempData["Name"] == null)
+							{
+								<li><a asp-action="Login" asp-controller="Home" asp-route-id=@item.Id>Book now</a></li>
+							}
+							else
+							{
+								<li><a asp-action="EventBookingForm" asp-controller="Home" asp-route-id=@item.Id>Book now</a></li>
+
+							}
+
+					</ul>
+				</div>
+					}
+
+
+
+				}
+				<nav aria-label="" class="add_top_20">
+					<ul class="pagination pagination-sm">
+						<li class="page-item disabled">
+							<a class="page-link" href="#" tabindex="-1">Previous</a>
+						</li>
+						<li class="page-item active"><a class="page-link" href="#">1</a></li>
+						<li class="page-item"><a class="page-link" href="#">2</a></li>
+						<li class="page-item"><a class="page-link" href="#">3</a></li>
+						<li class="page-item">
+							<a class="page-link" href="#">Next</a>
+						</li>
+					</ul>
+				</nav>
+				<!-- /pagination -->
+			</div>
+			<!-- /col -->
+
+
+		</div>
+		<!-- /row -->
+	</div>
+
+	<!-- /container -->
+</main>

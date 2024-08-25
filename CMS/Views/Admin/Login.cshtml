@@ -1,0 +1,39 @@
+﻿@model CMS.Models.TblAdmin;
+<div class="row">
+<div class="col-4"> </div>
+
+<div class="col-4">
+<h2 class="text-center"><b>Admin Panel</b> </h2>
+        @if (TempData["Alertmsg"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["Alertmsg"]
+            </div>
+        }
+
+
+        <form  method="post">
+  <div class="imgcontainer">
+    <img height="100px"  src="~/Admincss/img/6a44f0e35b10e6ed063eeebf7ed844f9.jpg" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" asp-for="Username" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" asp-for="Password" required>
+
+        <button style="background-color:#3f4079" type="submit">Login</button>
+    
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+        <a type="button" style="text-decoration:none;    color:white;
+ " asp-action="Index" asp-controller="Home" class="cancelbtn">Cancel</a>
+  </div>
+</form>
+
+</div>
+<div class="col-4"> </div>
+</div>

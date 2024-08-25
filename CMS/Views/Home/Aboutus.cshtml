@@ -1,0 +1,84 @@
+﻿@{
+	Layout = "_UserLayout";
+}
+@model CMS.Models.TblAbout
+<main>
+	<div id="breadcrumb">
+		<div class="container">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Category</a></li>
+				<li>Page active</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /breadcrumb -->
+
+	<div class="bg_color_1">
+		<div class="container margin_120_95">
+			<div class="main_title">
+				<h1>About Providence Clinic</h1>
+				<p>@Model.MainTitle</p>
+			</div>
+			<div class="row justify-content-between">
+				<div class="col-lg-6">
+					<figure class="add_bottom_30">
+						<img src="~/@Model.Imageone" class="img-fluid" alt="">
+					</figure>
+				</div>
+				<div class="col-lg-5">
+					<p>@Model.Textone</p>
+				</div>
+			</div>
+			<!--/row-->
+		</div>
+		<!--/container-->
+	</div>
+	<!--/bg_color_1-->
+
+	<div class="container margin_120_95">
+		<div class="main_title">
+			<h2>Our founders</h2>
+			<p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+		</div>
+		<div id="staff" class="owl-carousel owl-theme">
+			<div class="item">
+				<a href="detail-page.html">
+					<div class="title">
+						<h4>Julia Holmes<em>CEO</em></h4>
+					</div><img src="~/@Model.Imagetwo" alt="">
+				</a>
+			</div>
+			<div class="item">
+				<a href="detail-page.html">
+					<div class="title">
+						<h4>Lucas Smith<em>Marketing</em></h4>
+					</div><img src="~/@Model.Imagethree" alt="">
+				</a>
+			</div>
+			<div class="item">
+				<a href="detail-page.html">
+					<div class="title">
+						<h4>Paul Stephens<em>Business strategist</em></h4>
+					</div><img src="~/@Model.Imagefour" alt="">
+				</a>
+			</div>
+			
+			<div class="item">
+				<a href="detail-page.html">
+					<div class="title">
+						<h4>Andrew Stuttgart<em>Admissions</em></h4>
+					</div><img src="~/@Model.Imageone" alt="">
+				</a>
+			</div>
+		</div>
+		<!-- /carousel -->
+	</div>
+	<!--/container-->
+
+
+	<!--/bg_color_1-->
+
+	<!-- /container -->
+
+</main>

@@ -1,0 +1,86 @@
+﻿@{
+    Layout = "_UserLayout";
+}
+@model CMS.Models.TblOrder
+<div id="breadcrumb">
+    <div class="container">
+        <ul>
+            <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li><a asp-action="ProductsPage" asp-controller="Home" asp-route-category="All">Products</a></li>
+            <li>Cart</li>
+        </ul>
+    </div>
+</div>
+<div class="container mt-5">
+
+    @if (ViewBag.Items == null)
+    {
+        <h1>No item Added</h1>
+    }else{
+   
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+                    @{
+                        // Initialize total quantity variable
+                        int totalQuantity = 0;
+                    }
+
+    @foreach (var item in ViewBag.Items)
+    {
+        
+             totalQuantity += item.Quantity * item.Price;
+        
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+                
+            <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                            
+        </tr>
+    }
+    </tbody>
+</table>
+<br />
+<div class="col-md-5">
+     <div class="container" style="border: 2px dashed grey; padding:20px; border-radius:5px;">
+        <form method="post">
+                <fieldset>
+                    <legend>Proceed to Checkout</legend>
+                    <div class="mb-3">
+                        <label for="disabledTextInput" class="form-label">Total Purchase</label>
+                    <input class="form-control" type="text" disabled value="Rs. @totalQuantity">
+                    <input class="form-control" type="hidden" asp-for="TotalPurchase" value="@totalQuantity">
+                    <input class="form-control" type="hidden" asp-for="Date" id="e">
+                    <input class="form-control" type="hidden" asp-for="UId" value="@TempData["id"]">
+                    </div>
+                    <div class="mb-3">
+                        <label >Enter Address</label>
+                    <textarea asp-for="Address" class="form-control"></textarea>
+                    </div>
+
+                <input type="submit" class="btn_1" asp-controller="Home" asp-action="Checkout" />
+                </fieldset>
+            </form>
+
+            </div>
+
+        </div>
+
+
+
+
+            }
+</div>
+
+<script>
+    document.getElementById('e').value = new Date().toISOString().substring(0, 10);
+</script>
